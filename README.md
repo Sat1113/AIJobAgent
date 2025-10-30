@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Job Agent
 
 An AI-powered job application assistant that helps analyze job descriptions, optimize resumes, and track applications.
@@ -203,3 +204,6 @@ If you encounter any issues, please:
 1. Check the troubleshooting section above
 2. Search existing GitHub issues
 3. Create a new issue with detailed error information
+=======
+# AIJobAgent
+>>>>>>> ab16ed88b3dc806f9270118306cb1908aa74d384

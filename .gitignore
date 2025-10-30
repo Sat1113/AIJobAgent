@@ -205,6 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+<<<<<<< HEAD
 
 # Node.js
 node_modules/
@@ -224,3 +225,5 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+=======
+>>>>>>> ab16ed88b3dc806f9270118306cb1908aa74d384
